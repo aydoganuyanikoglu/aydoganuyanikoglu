@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aydoğan Uyanıkoğlu</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">Frontend Developer from Turkey</h3>
 
-- 🌱 I’m currently learning **nextjs**
+- 🌱 I’m currently learning **node.js**
 
 - 💬 Ask me about **react,nextjs,js,sass,tailwindcss,css**
 
